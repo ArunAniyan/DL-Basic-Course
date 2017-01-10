@@ -1,0 +1,9 @@
+jupyter==1.0.0
+Keras==1.2.0
+matplotlib==1.5.3
+numpy==1.11.3
+scikit-image==0.12.3
+scikit-learn==0.18.1
+scikit-neuralnetwork==0.7
+scipy==0.18.1
+Theano==0.8.2
